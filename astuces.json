@@ -22,5 +22,11 @@
           "title" : "hdv 4",
           "content" : "ethop il faut faire ceci ou cela",
           "niveau" : "expert"
+      },
+      {
+          "jeu" : "Clash of Clans",
+          "title" : "hdv 5",
+          "content" : "Attention à la marche",
+          "niveau" : "intermediaire"
       }
   ]
