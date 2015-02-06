@@ -8,9 +8,16 @@
 
 <body>
 
-<ul class="navbar">
-  <li><a href="index.php">Home page</a>
-  <li><a href="actualites.php">Actualites</a>
-  <li><a href="astuces.php">Astuces</a>
-  <li><a href="liens.html">Liens</a>
-</ul>
+<div class="centrage">
+
+  <div class="sidebar">
+
+    <ul class="navbar">
+      <li><a href="index.php">Home page</a>
+      <li><a href="actualites.php">Actualites</a>
+      <li><a href="astuces.php">Astuces</a>
+      <li><a href="liens.html">Liens</a>
+    </ul>
+  </div>
+
+  <div class="content">
