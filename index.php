@@ -13,7 +13,7 @@
 
 <h4>Qu'est ce que Clash of Clans?</h4>
 
-<img src="/~goliath/dany/image/Clash-of-Clans-pour-PC-et-Mac.jpg"width="90" height="90" />
+<img src="/~goliath/dany/image/Clash-of-Clans-pour-PC-et-Mac.jpg" height="90" class="alignleft" />
 
 <p>Dans Clash of Clans, le but est de construire un village a partir de rien et de le defendre face a des adversaires reels : d autres joueurs possedant eux aussi leur village. Vous commencerez le jeu dans une parcelle non-extensible et devrez faire evoluer vos batiments a l aide d or Gold et d Elixir, ressources inepuisables que vous obtiendrez respectivement à l aide de la mine d or et de l extracteur d Elixir.
 
